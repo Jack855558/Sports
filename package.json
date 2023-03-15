@@ -1,0 +1,26 @@
+{
+  "name": "sports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.2.5",
+    "gh-pages": "^5.0.0",
+    "react-router-dom": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack855558/Sports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack855558/Sports/issues"
+  },
+  "homepage": "https://github.com/Jack855558/Sports#readme"
+}
